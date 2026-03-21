@@ -8,5 +8,5 @@
 
 ## The image below illustrates a simple Haskell program
 <p align="center">
-  <img src="https://github.com/gustavoscruz29/declarative-programming/blob/main/haskell/haskell_studying.jpeg?raw=true" alt="haskell studying"/>
+  <img src="https://github.com/gustavoscruz29/declarative-programming/blob/main/haskell/haskell_studying.jpeg?raw=true" alt="haskell studying" width="500" height="800"/>
 </p>
