@@ -7,3 +7,4 @@
 - Some notable haskell caracteristics: declarative style, pattern matching, lazy evaluation and support for Lambda Calculus.
 
 ## The image below illustrates a simple Haskell program
+![Alt text]()
