@@ -2,7 +2,7 @@
 
 - This chapter deals with the problem of recursion.
 - The author argues that approaching this problem from the perspective of mathematical indution is a good approach.
-- According to the authors, mathematical indution is the basis of all programming in haskell, .
+- According to the authors, mathematical indution is the basis of all programming in haskell.
 
 ## What will you find here? 🔍
 - The chapter exercices that have already been solved in the book.
