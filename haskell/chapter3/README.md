@@ -3,6 +3,7 @@
 - This chapter deals with the problem of recursion.
 - The author argues that approaching this problem from the perspective of mathematical induction is a good approach.
 - According to the authors, mathematical induction is the basis of all programming in haskell.
+- In addition, the concepts of pattern matching and lazy evaluation were presented.
 
 ## What will you find here? 🔍
 - The chapter exercices that have already been solved in the book.
