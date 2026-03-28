@@ -1,12 +1,34 @@
-# HASKELL 💻
-- My studies on programming in the Haskell language are based on the book: Haskell - uma abordagem prática.
-- The book contains seventeen chapters and many exercices.
+# 💻 Haskell Studies
 
-## WHAT IS HASKELL?
-- According to the book, Haskell is a functional programming language with well-defined data types.
-- Some notable haskell caracteristics: declarative style, pattern matching, lazy evaluation and support for Lambda Calculus.
+This repository contains my studies on the **Haskell programming language**, based on the book:
 
-## The image below illustrates a simple Haskell program
+> *Haskell – Uma Abordagem Prática*
+
+- The book is structured into **17 chapters**, covering both theoretical concepts and practical exercises.
+- Throughout this study, I explore functional programming principles and their applications.
+
+---
+
+## 🧠 What is Haskell?
+
+According to the book, **Haskell** is a **pure functional programming language** with strong and well-defined data types.
+
+### 🔑 Key Characteristics
+
+- **Declarative programming style**
+- **Pattern matching**
+- **Lazy evaluation**
+- **Strong static typing**
+- **Support for Lambda Calculus**
+
+---
+
+## 📷 Example of a Haskell Program
+
+The image below illustrates a simple Haskell program:
+
 <p align="center">
-  <img src="https://github.com/gustavoscruz29/declarative-programming/blob/main/haskell/haskell_studying.jpeg?raw=true" alt="haskell studying" width="500" height="800"/>
+  <img src="https://github.com/gustavoscruz29/declarative-programming/blob/main/haskell/haskell_studying.jpeg?raw=true" alt="Haskell studying" width="500" height="800"/>
 </p>
+
+---
