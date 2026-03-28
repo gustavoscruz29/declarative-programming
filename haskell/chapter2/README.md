@@ -1,8 +1,23 @@
-# Chapter 2
+# 📘 Chapter 2
 
-- This chapter introduces basic Haskell programs and simple concepts.
-- The authors focus on showing how Haskell can be related to functional mathematics.
+This chapter introduces **basic Haskell programs** and fundamental concepts.
 
-## What will you find here? 🔍
-- The chapter exercices that have already been solved in the book.
-- My solutions to the exercices proposed in the book.
+- The authors emphasize how Haskell relates to **functional mathematics**.
+- It provides an initial understanding of how to think in a **functional programming paradigm**.
+
+---
+
+## 🔍 What will you find here?
+
+- Solutions to the exercises already solved in the book  
+- My own solutions to the proposed exercises  
+
+---
+
+## 💻 Example
+
+The image below shows a simple Haskell program:
+
+<p align="center">
+  <img src="https://github.com/gustavoscruz29/declarative-programming/blob/main/haskell/chapter2/images/hello_haskell.png?raw=true" alt="Simple Haskell program" width="500" height="800"/>
+</p>
